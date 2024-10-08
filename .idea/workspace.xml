@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b64263d-b314-436e-a637-3848caae3d9d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/thuc_hanh_js.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ht.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ht2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH_nhung_bt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH_nhung_bt2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH_nhung_bt3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "phuhoang06"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/phuhoang06/TH_Js.git",
+    "accountId": "3a3b17a7-148e-4b43-87d1-af5e45158c95"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -42,11 +52,18 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.TH_nhung_bt1.html.executor": "Debug",
+    "JavaScript Debug.TH_nhung_bt2.html.executor": "Debug",
+    "JavaScript Debug.TH_nhung_bt3.html.executor": "Run",
     "JavaScript Debug.ht.html.executor": "Run",
+    "JavaScript Debug.ht2.html.executor": "Debug",
+    "JavaScript Debug.ht3.html.executor": "Debug",
+    "JavaScript Debug.ht4.html.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "disable.download.node.interpreter.editor.notification": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/admin/Desktop/Code Gym/Module 1/thuc_hanh_js",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +72,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Code Gym\Module 1\thuc_hanh_js" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728353685538</updated>
-      <workItem from="1728353686573" duration="1963000" />
+      <workItem from="1728353686573" duration="3430000" />
     </task>
     <servers />
   </component>
